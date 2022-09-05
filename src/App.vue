@@ -1,7 +1,7 @@
 <template>
   <v-app>
     <h1 class="mx-auto name">Hi, I'm JackPigPro!</h1>
-    <p class="mx-auto">Hey, JackPigPro here, I hope you will check out my accounts! I love to create YouTube videos and create scratch projects. I have many tutorials if you want to watch them. I also play fall guys, and I do fall guys gameplays. In the future, I will probably start streaming. Have an amazing day :)</p>
+    <p class="mx-auto dasd">Hey, JackPigPro here, I hope you will check out my accounts! I love to create YouTube videos and create scratch projects. I have many tutorials if you want to watch them. I also play fall guys, and I do fall guys gameplays. In the future, I will probably start streaming. Have an amazing day :)</p>
     <v-row class="mx-4 mx-auto mt-3">
       <v-btn
         color="red"
@@ -120,6 +120,9 @@ export default {
   /* make the font color white */
   color: white;
   font-weight: 600;
+  text-align: center;
+}
+.dasd {
   text-align: center;
 }
 </style>
