@@ -1,7 +1,7 @@
 <template>
   <v-app>
     <h1 class="mx-auto name">Hi, I'm JackPigPro!</h1>
-    <p class="mx-auto dasd">Hey, JackPigPro here, I hope you will check out my accounts! I love to create YouTube videos and create scratch projects. I have many tutorials if you want to watch them. I also play fall guys, and I do fall guys gameplays. In the future, I will probably start streaming. Have an amazing day :)</p>
+    <h3 class="sub">YouTuber and Scratcher</h3>
     <v-row class="mx-4 mx-auto mt-3">
       <v-btn
         color="red"
@@ -121,10 +121,5 @@ export default {
   color: white;
   font-weight: 600;
   text-align: center;
-}
-.dasd {
-  text-align: center;
-  margin-left: 10px;
-  margin-right: 10px;
 }
 </style>
